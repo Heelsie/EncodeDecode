@@ -16,4 +16,4 @@ text = input("Your message: ")
 
 
 print("Your encoded message is: ", encode(text))
-print("Your decoded message is: ", encode(encode(text)))
+#print("Your decoded message is: ", encode(encode(text)))
